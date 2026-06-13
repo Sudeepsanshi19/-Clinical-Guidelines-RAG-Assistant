@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.pytest_cache/
+
+# Generated corpus artifacts
+storage/*.pkl
+storage/*.jsonl
+storage/*.csv
+
