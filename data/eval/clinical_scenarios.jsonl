@@ -1,0 +1,16 @@
+{"id":"q01","question":"For a patient with advanced HIV disease, what package of care should be considered according to WHO guidance?","expected_topic":"advanced HIV disease"}
+{"id":"q02","question":"What does the guideline recommend for screening and treatment of cervical pre-cancer lesions using HPV DNA genotyping?","expected_topic":"cervical cancer"}
+{"id":"q03","question":"Which infection prevention steps are recommended for central venous catheter-associated bloodstream infections?","expected_topic":"central venous catheter infection prevention"}
+{"id":"q04","question":"What guidance is provided for contraceptive eligibility in patients with medical conditions?","expected_topic":"medical eligibility criteria contraception"}
+{"id":"q05","question":"What practice recommendations are given for correct and consistent contraceptive use?","expected_topic":"selected practice recommendations contraception"}
+{"id":"q06","question":"What diagnostic and treatment recommendations does WHO provide for infertility care?","expected_topic":"infertility"}
+{"id":"q07","question":"How should HIV services be integrated with care for hypertension, diabetes, mental health, or substance use?","expected_topic":"HIV service delivery integration"}
+{"id":"q08","question":"What policies can schools use to create healthier food environments for children?","expected_topic":"school food environment nutrition"}
+{"id":"q09","question":"What infection prevention and control measures are advised for Ebola and Marburg disease response?","expected_topic":"Ebola Marburg infection prevention"}
+{"id":"q10","question":"What laboratory testing guidance is available for suspected Andes virus infection?","expected_topic":"Andes virus laboratory testing"}
+{"id":"q11","question":"What should the assistant answer when retrieved guideline evidence is insufficient for a requested treatment dose?","expected_topic":"insufficient evidence handling"}
+{"id":"q12","question":"Which source and page should be cited when answering about HPV genotyping for cervical cancer prevention?","expected_topic":"citation behavior"}
+{"id":"q13","question":"How do guidelines describe the target users or intended use of contraceptive practice recommendations?","expected_topic":"contraceptive guideline scope"}
+{"id":"q14","question":"What recommendations address infection risks associated with intravascular catheters?","expected_topic":"catheter infection risk"}
+{"id":"q15","question":"What does WHO guidance say about preventing, diagnosing, and treating infertility at health system level?","expected_topic":"infertility health system"}
+
